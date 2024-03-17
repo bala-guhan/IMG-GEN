@@ -17,13 +17,13 @@ This image generation bot is designed to transform text into corresponding image
 
 ### Setup Instructions
 1. **Obtain API Keys**:
-   - Sign up for accounts with OpenAI[here](https://platform.openai.com/api-keys) and SceneX[here](https://scenex.jina.ai/api) to obtain API access.
+   - Sign up for accounts with OpenAI [OpenAI-api-key](https://platform.openai.com/api-keys) and SceneX [Scenex-api-key](https://scenex.jina.ai/api) to obtain API access.
    - After signing up, obtain API keys for both platforms.
    - Place these API keys in the specified location in the `secret_key.py` file.
 
 2. **Verify Credits**:
    - Ensure that you have eligible credits available for OpenAI API usage.
-   - Check your available credits [here](https://platform.openai.com/usage).
+   - Check your available credits [HERE](https://platform.openai.com/usage).
 
 3. **Run the Bot**:
    - Open your terminal and navigate to the directory where the bot files are located.
